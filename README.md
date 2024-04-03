@@ -4,7 +4,7 @@ Summarize the solutions of the CTFs in which you participated.
 From top to bottom, they are in order of newness and unraveling. 
 
 Question
-picoCTF 2024 (2024/03/12)
+[picoCTF 2024 (2024/03/12)](https://github.com/satoki/ctf_writeups/?tab=readme-ov-file#picoctf-2024-20240312)
 
 picoCTF 2024
 3400 Points
