@@ -1,30 +1,43 @@
-CTF_writeups
+🚩 CTF Writeups
 
-Summarize the solutions of the CTFs in which you participated. 
-From top to bottom, they are in order of newness and unraveling. 
+Unlocking Challenges, One Flag at a Time
 
-[Question]
+Welcome to my collection of writeups for Capture The Flag (CTF) challenges! Each writeup unravels the puzzles, exploits, and technical tricks that helped me conquer these challenges. The writeups are listed in order of recency and complexity—from beginner-friendly quests to intricate exploits.
+🌟 Featured CTF
+picoCTF 2024
 
-[picoCTF 2024](https://github.com/LIVEpandu/picoCTF_2024/tree/main)<br>
-3400 Points
+🏆 Score: 3400 Points
 
-<a href="#bookmarklet">Bookmarklet:Web Exploitation:50pts</a><br>
-<a href="#webdecode">WebDecode:Web Exploitation:50pts</a><br>
-<a href="#intro-to-burp">IntroToBurp:Web Exploitation:100pts</a><br>
-<a href="#unminify">Unminify:Web Exploitation:100pts</a><br>
-<a href="#no-sql-injection">No Sql Injection:Web Exploitation:200pts</a><br>
-<a href="#trickster">Trickster:Web Exploitation:300pts</a><br>
-<a href="#format_string_0">format string 0:Binary Exploitation:50pts</a><br>
-<a href="#format_string_1">format string 1:Binary Exploitation:100pts</a><br>
-<a href="#format_string_2">format string 2:Binary Exploitation:200pts</a><br>
-<a href="#format_string_3">format string 3:Binary Exploitation:300pts</a><br>
-<a href="#heap_0">heap 0:Binary Exploitation:50pts</a><br>
-<a href="#heap_1">heap 1:Binary Exploitation:100pts</a><br>
-<a href="#heap_2">heap 2:Binary Exploitation:200pts</a><br>
-<a href="#heap_3">heap 3:Binary Exploitation:200pts</a><br>
-<a href="#babygame03">babygame03:Binary Exploitation:400pts</a><br>
-<a href="#high_frequency_troubles">high frequency troubles:Binary Exploitation:500pts</a><br>
+Dive into the writeups for this prestigious CTF, featuring a mix of web and binary exploitation challenges. Click on a challenge below to explore the detailed solution and gain insights!
+🌐 Web Exploitation
 
+    📑 Bookmarklet (50 pts)
+    📑 WebDecode (50 pts)
+    📑 IntroToBurp (100 pts)
+    📑 Unminify (100 pts)
+    📑 No SQL Injection (200 pts)
+    📑 Trickster (300 pts)
 
+🛠️ Binary Exploitation
 
+    🔧 format string 0 (50 pts)
+    🔧 format string 1 (100 pts)
+    🔧 format string 2 (200 pts)
+    🔧 format string 3 (300 pts)
+    🔧 heap 0 (50 pts)
+    🔧 heap 1 (100 pts)
+    🔧 heap 2 (200 pts)
+    🔧 heap 3 (200 pts)
+    🎮 babygame03 (400 pts)
+    ⚡ high frequency troubles (500 pts)
 
+📖 What's Inside?
+
+Each writeup includes:
+
+    Challenge Description: Understand the puzzle.
+    Approach: How the challenge was tackled.
+    Code: Scripts, payloads, and commands used.
+    Lessons Learned: Insights gained from solving the challenge.
+
+Stay tuned for more writeups as I continue my journey through the fascinating world of CTFs! 🎯
